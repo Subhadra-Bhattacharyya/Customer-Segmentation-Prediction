@@ -62,3 +62,50 @@ The dataset used in this project (`customer_segmentation.csv`) contains customer
 
 ## 📁 Project Structure
 
+├── customer_segmentation.ipynb # Main Jupyter notebook
+├── customer_segmentation.csv # Input dataset (not included in public repo)
+├── README.md # Project overview
+├── requirements.txt # Dependencies (optional)
+
+
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+git clone https://github.com/your-username/customer-segmentation.git
+cd customer-segmentation
+
+
+
+2. Install the required libraries:
+pip install -r requirements.txt
+
+
+
+3. Launch the notebook:
+jupyter notebook customer_segmentation.ipynb
+
+
+
+> 📌 **Note:** Ensure that `customer_segmentation.csv` is in the same directory as the notebook.
+
+---
+
+## 🤝 Contribution
+
+Pull requests are welcome! If you have any improvements, new analysis ideas, or visualizations, feel free to fork and submit a PR.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👤 Author
+
+**Subhadra Bhattacharyya**  
+
